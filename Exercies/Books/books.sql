@@ -5,7 +5,7 @@ CREATE TABLE books (
  ISBN varchar(25) DEFAULT NULL,
  pub_year smallint(6) DEFAULT NULL,
  available tinyint(4) DEFAULT NULL
-)
+);
 
 INSERT INTO books (bookid, authorid, title, ISBN, pub_year, available) VALUES
 (1, 1, 'Code Alone', 'aLONE', 1999, 2),
