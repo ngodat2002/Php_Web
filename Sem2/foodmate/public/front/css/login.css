@@ -1,0 +1,100 @@
+.login-start{
+    margin-top: 50px;
+    position: relative;
+}
+
+.login-background{
+    background-image: url("../img/img-login.png");
+    width: 566px;
+    height: 580px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.login-tx_btn{
+    position: absolute;
+    text-align: center;
+    top: 300px;
+    left: 20px;
+}
+.fd-cl{
+    color: #fbaf32;
+}
+.fo-cl{
+    color: #719a0a;
+}
+.login-tx_btn p{
+    margin: 25px 0;
+}
+.login-tx_btn a {
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+.login-tx_btn .btn-login{
+    width: 140px;
+    height: 20px;
+
+}
+.form-login{
+    margin-top: 120px;
+    padding-left: 10px;
+    margin-bottom: 30px;
+}
+.form-register{
+    margin-top: 50px;
+}
+.form-login .center{
+    letter-spacing: 4px;
+    text-align: center;
+}
+.form-register .center{
+    letter-spacing: 4px;
+    text-align: center;
+}
+.form-login input:focus{
+    outline: none;
+}
+.form-register input:focus{
+    outline: none;
+}
+.control-login{
+    padding: 10px 10px;
+    margin-left: 40px;
+}
+.input-login{
+    width: 400px;
+    height: 50px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+}
+.form-login .control-login label{
+    color: #252525;
+}
+.form-register .control-login label{
+    color: #252525;
+}
+.input-box{
+    margin-top: 20px;
+}
+.control-login .span-login{
+    float: right;
+    margin-right: 80px;
+    font-size: 14px;
+    letter-spacing: 1px;
+}
+.control-login .span-login a{
+    color: #252525;
+}
+.control-login .btn-sign{
+    width: 220px;
+    height: 50px;
+    background-color: #ffc107;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-left: 100px;
+    border: none;
+    border-radius: 4px;
+}
+.alert_nofi{
+    margin-top: 20px;
+}
